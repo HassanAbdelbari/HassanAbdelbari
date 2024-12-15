@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanAbdelbari
+- 👋 Hi, I’m Hassan Abdelbari
 - 👀 I’m interested in:
   - Machine learning
   - Deep learning
