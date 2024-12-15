@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @HassanAbdelbari
-- 👀 I’m interested in: machine learning, deep learning, embdedded software engineering, C++, Python and code optimization.
+- 👀 I’m interested in:
+  - Machine learning
+  - Deep learning
+  - Embdedded software engineering
+  - C++
+  - Python
+  - Code optimization
 - 🌱 I’m currently learning code optimization.
 - 💞️ I’m looking to collaborate on research and development projects in machine intelligence
 - 📫 How to reach me:
